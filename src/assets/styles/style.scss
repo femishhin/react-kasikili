@@ -1,0 +1,51 @@
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
+@import '../../../node_modules/bootstrap-icons/font/bootstrap-icons.scss';
+
+
+
+/* Theme css start */
+body{
+    font-family: 'Poppins', sans-serif; 
+    font-size: 14px;
+}
+.fs14 { 
+    font-size: 14px;
+}
+.pageWrapper {
+    min-height: calc(100vh - 42px) ; 
+    background-color: #edf1f5;
+    &.login {
+        min-height: 100vh;
+        background-color: #2a1663;
+    }
+}
+.sidebar {
+    .nav {
+        li{
+            a{
+                color:#212529; opacity: 0.55; padding: 10px 20px 10px 15px; display: flex;align-items: center;white-space: nowrap;
+                &:hover, &.active{
+                    opacity: 1;
+                }
+                i {
+                    width: 18px; vertical-align: middle; font-size: 16px;
+                }
+            }
+        }
+    }
+}
+.card {
+    border-radius: 0; 
+    border: 0;
+}
+/* Theme css end */
+
+/* Login css start  */
+.form-signin { 
+    max-width: 330px; 
+    padding: 15px; 
+    text-align: center;
+}
+/* Login css start  */
+
+
