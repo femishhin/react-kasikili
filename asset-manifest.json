@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-kasikili/static/css/main.d062e1ee.css",
-    "main.js": "/react-kasikili/static/js/main.56c5c64d.js",
+    "main.js": "/react-kasikili/static/js/main.f15b2bf9.js",
     "static/js/787.2f132953.chunk.js": "/react-kasikili/static/js/787.2f132953.chunk.js",
     "static/media/bootstrap-icons.woff?": "/react-kasikili/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
     "static/media/bootstrap-icons.woff2?": "/react-kasikili/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
     "index.html": "/react-kasikili/index.html",
     "main.d062e1ee.css.map": "/react-kasikili/static/css/main.d062e1ee.css.map",
-    "main.56c5c64d.js.map": "/react-kasikili/static/js/main.56c5c64d.js.map",
+    "main.f15b2bf9.js.map": "/react-kasikili/static/js/main.f15b2bf9.js.map",
     "787.2f132953.chunk.js.map": "/react-kasikili/static/js/787.2f132953.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d062e1ee.css",
-    "static/js/main.56c5c64d.js"
+    "static/js/main.f15b2bf9.js"
   ]
 }
